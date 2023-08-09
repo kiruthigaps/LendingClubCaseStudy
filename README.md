@@ -11,7 +11,7 @@
    <p> This case study has detailed analysis of lending club. We graphically represent different possibilities of data and explained it in PPT which can be used for taking decision on approving or denying the loan.</p>
 
 ## Business problem
-    <p>Based on dataset identify a pattern for making decision on approving and denying loan.</p>
+    <p> Based on dataset identify a pattern for making decision on approving and denying loan. </p>
 
 ## Dataset
    <p> The dataset we used contains information about past loan applicants and whether they 'defaulted' or not </p>
