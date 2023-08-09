@@ -1,4 +1,4 @@
-# Lending Club
+# Lending Club case study
 > The objective is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending at a higher interest rate, etc.
 
 ## Table of Contents
