@@ -8,18 +8,17 @@
 
 
 ## General Information
-   <p> This case study has detailed analysis of leading club. We graphically represent different possibilities of data and explained it in PPT which can be used for taking decision on approving or denying the loan</p>
+   <p> This case study has detailed analysis of lending club. We graphically represent different possibilities of data and explained it in PPT which can be used for taking decision on approving or denying the loan.</p>
 
-## Buissness problem
-    Based on dataset identify a pattern for make decision on approving and denying loan
+## Business problem
+    <p>Based on dataset identify a pattern for making decision on approving and denying loan.</p>
 
 ## Dataset
-    The dataset we used contains information about past loan applicants and whether they 'defaulted' or not
+   <p> The dataset we used contains information about past loan applicants and whether they 'defaulted' or not </p>
 
 ## Conclusions
-- We build relationship between different combinations of data and identified defulters pattern based on person's loan amount, annual income, purpose, title, grade, etc
-
-
+   <p> We analyze the dataset and derive relationship between various columns. Plot graphs for various combinations of data and try to infer correlation between them. Finally we decide on which factors needs to be considered strongly before issuing a loan</p> 
+   
 ## Technologies Used
 - Anaconda Navigator (v2.4.0)
 - Jupyter Notebook (v6.5.2)
