@@ -8,7 +8,7 @@
 
 
 ## General Information
-    This case study has detailed analysis of leading club. We graphically represent different possibilities of data and explained it in PPT which can be used for taking decision on approving or denying the loan
+   <p> This case study has detailed analysis of leading club. We graphically represent different possibilities of data and explained it in PPT which can be used for taking decision on approving or denying the loan</p>
 
 ## Buissness problem
     Based on dataset identify a pattern for make decision on approving and denying loan
