@@ -28,5 +28,5 @@
 
 ## Contact
 Created by 
-    Kiruthiga R
-    Karthik R [@github.com/baskarkarthik]
+    -Kiruthiga R
+    -Karthik R [@github.com/baskarkarthik]
